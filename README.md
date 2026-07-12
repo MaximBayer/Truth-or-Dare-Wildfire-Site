@@ -2,9 +2,11 @@
 
 Публічний сайт додатку для Google Play: політика конфіденційності, умови, підтримка, видалення даних.
 
+**Контакт:** truth.or.dare.wildfire@gmail.com · Instagram [@truth_or_dare_wildfire](https://www.instagram.com/truth_or_dare_wildfire)
+
 **Код додатку** живе в окремому приватному репозиторії і сюди не потрапляє.
 
-## URL після GitHub Pages
+## URL
 
 https://maximbayer.github.io/Truth-or-Dare-Wildfire-Site/
 
