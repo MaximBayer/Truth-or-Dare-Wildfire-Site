@@ -1,0 +1,4 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://maximbayer.github.io/Truth-or-Dare-Wildfire-Site/sitemap.xml
